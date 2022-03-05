@@ -1,0 +1,41 @@
+body {
+	background-color: rgb(215, 215, 215);
+	color: rgb(25, 25, 25);
+	font-family: serif;
+	font-size: 20px;
+}
+
+h1 {
+	color: mediumpurple;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 60px;
+}
+
+h2 {
+	color: aliceblue;
+	font-family: 'Roboto', sans-serif;
+}
+
+x{
+	color: indianred;
+	font-size: 40px;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: mediumpurple;
+}
+a:hover {
+	color: goldenrod;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+
+
+
+
+
